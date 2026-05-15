@@ -18,31 +18,28 @@ Note : 1) I am currently busy with my study life so any updates or changes that 
 
 CREDITS :
 1) main.py - Me
-2) SnakeFileManager(originally termish) - ashenfad :
-   Thanks to him for making it open source
-3) The other folders containing the apps and the names of the folders(from Python-GUI-Project) - Aashishkumar123 :
-Credits to him.
-
-
 
 Future Plans :
 I am planning on adding more open source apps in the future from different repositories on GitHub. I will find  the interesting apps from GitHub and add them to this repository. So that you can use all apps in this repository by typing commands into main.py(after running it of course).
 
 
 
-List of Apps :
+List of Apps that I may add :
 1) Translator
 2) Graphical Calculator
 3) Calender
 4) Dictionary
 5) SMS - I dont know if this will work. So please check it for me.
-6) Advanced Youtube Downloader - I dont know if this will work. So please check it for me. And also remember that the video will not go to SnakeFileManager but it will go to your desktop File Manager(If it works that is). And also add the necessary code to allow for Youtube videos to be stored on SnakeFileManager.
 7) Google Engine - Doubtful
 8) Email Sender - Doubtful
 9) Tic Tac Toe
 10) Piano Application
 11) Paint Application
 12) Notepad
+
+
+
+NOTE : IN EACH OF THE APPS COMPATBILITY WITH MAIN.PY IS IN QUESTION.
 
 
 
